@@ -1,7 +1,6 @@
 *.pyc
 eatease/settings.py
 pip-selfcheck.json
-manage.py
 bin/
 include/
 lib/
